@@ -168,10 +168,10 @@ files =
   "misc/treaty.spec",
   "misc/icons.spec",
   "misc/editor.spec",
-  "isophex/grid.spec",
   "RoundHex/terrain.spec",
   "RoundHex/rivers.spec",
-  "RoundHex/extras.spec"
+  "RoundHex/extras.spec",
+  "RoundHex/grid.spec"
 
 
 ; Include color definitions
