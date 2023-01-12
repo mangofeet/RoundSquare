@@ -25,7 +25,7 @@ gfx = "RoundHex/rivers"
 
 x_top_left = 1
 y_top_left = 1
-dx = 58
+dx = 62
 dy = 36
 pixel_border = 1
 
