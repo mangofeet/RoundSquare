@@ -22,7 +22,7 @@ gfx = "RoundHex/extras"
 
 x_top_left = 0
 y_top_left = 0
-dx = 59
+dx = 62
 dy = 36
 
 tiles = { "row", "column", "tag"
