@@ -31,4 +31,4 @@ and then click install modpack.
 
 # License
 
-Just like the originial Freeciv, this tileset is made available under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version.
+Just like Freeciv21, this tileset is made available under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
