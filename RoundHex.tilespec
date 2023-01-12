@@ -17,14 +17,14 @@ summary = _("Small hexagonal tileset.")
 ; eg, authors, colors, etc.
 
 ; Basic tile sizes:
-normal_tile_width  = 58
+normal_tile_width  = 62
 normal_tile_height = 36
 small_tile_width   = 15
 small_tile_height  = 20
 
 ; Basic tile style.
 type = "isometric"
-hex_side = 18
+hex_side = 22
 is_hex = TRUE
 
 ; Was old iso style
@@ -34,17 +34,17 @@ fog_style      = "Darkness"
 darkness_style = "Corner"
 
 ; offset the flags by this amount when drawing units
-unit_flag_offset_x = 14
+unit_flag_offset_x = 18
 unit_flag_offset_y = 20
-city_flag_offset_x = 14
-city_flag_offset_y = 20
+city_flag_offset_x = 18
+city_flag_offset_y = 17
 
 ; offset the city occupied sprite by this amount
-occupied_offset_x = 14
-occupied_offset_y = 20
+occupied_offset_x = 18
+occupied_offset_y = 16
 
 ; offset the units by this amount
-unit_offset_x = 14
+unit_offset_x = 18
 unit_offset_y = 20
 
 ; colors with this (HSL) hue will be replaced by the player color in city and
@@ -52,29 +52,29 @@ unit_offset_y = 20
 replaced_hue = -1
 
 ; offset of the normal activity icons
-activity_offset_x = 14
+activity_offset_x = 18
 activity_offset_y = 20
 
 ; offset of the selected unit sprites
-select_offset_x = 14
-select_offset_y = 20
+select_offset_x = 18
+select_offset_y = 0
 ; delay between two consecutive images
 ;select_step_ms = 100
 
 ; offset the cities by this amount
-city_offset_x = 14
+city_offset_x = 18
 city_offset_y = 20
 
 ; offset the city size number by this amount
 ; This is relative to full sprite origin.
-city_size_offset_x = 14
-city_size_offset_y = 20
+city_size_offset_x = 18
+city_size_offset_y = 15
 
 ; offset the city bar text by this amount (from the city tile origin)
 citybar_offset_y = 27
 
 ; offset the tile label text by this amount
-tilelabel_offset_y = 20
+tilelabel_offset_y = 27
 
 ; offset the upkeep icons by this amount from the top of the unit itself.
 ; The default is the normal tile height, which means that the upkeep icons

@@ -25,7 +25,7 @@ gfx = "RoundHex/terrain"
 
 x_top_left = 1
 y_top_left = 1
-dx = 58
+dx = 62
 dy = 36
 
 tiles = { "row", "column", "tag"
@@ -98,7 +98,7 @@ tiles = { "row", "column", "tag"
 
 x_top_left = 1
 y_top_left = 38
-dx = 29
+dx = 31
 dy = 18
 
 tiles = { "row", "column", "tag"
