@@ -41,57 +41,6 @@ tiles = { "row", "column", "tag"
 
   ; TODO
   0, 10, "t.dither_tile"
-
-  0, 10, "road.road_c_n0se0w0"
-  0, 10, "road.road_c_n0se0w1"
-  0, 10, "road.road_c_n0se1w0"
-  0, 10, "road.road_c_n0se1w1"
-  0, 10, "road.road_c_n1se0w0"
-  0, 10, "road.road_c_n1se0w1"
-  0, 10, "road.road_c_n1se1w0"
-  0, 10, "road.road_c_n1se1w1"
-
-  0, 10, "road.road_d_e0s0nw1"
-  0, 10, "road.road_d_e0s1nw0"
-  0, 10, "road.road_d_e0s1nw1"
-  0, 10, "road.road_d_e1s0nw0"
-  0, 10, "road.road_d_e1s0nw1"
-  0, 10, "road.road_d_e1s1nw0"
-  0, 10, "road.road_d_e1s1nw1"
-
-  0, 10, "road.rail_c_n0se0w0"
-  0, 10, "road.rail_c_n0se0w1"
-  0, 10, "road.rail_c_n0se1w0"
-  0, 10, "road.rail_c_n0se1w1"
-  0, 10, "road.rail_c_n1se0w0"
-  0, 10, "road.rail_c_n1se0w1"
-  0, 10, "road.rail_c_n1se1w0"
-  0, 10, "road.rail_c_n1se1w1"
-
-  0, 10, "road.rail_d_e0s0nw1"
-  0, 10, "road.rail_d_e0s1nw0"
-  0, 10, "road.rail_d_e0s1nw1"
-  0, 10, "road.rail_d_e1s0nw0"
-  0, 10, "road.rail_d_e1s0nw1"
-  0, 10, "road.rail_d_e1s1nw0"
-  0, 10, "road.rail_d_e1s1nw1"
-
-  0, 10, "road.maglev_c_n0se0w0"
-  0, 10, "road.maglev_c_n0se0w1"
-  0, 10, "road.maglev_c_n0se1w0"
-  0, 10, "road.maglev_c_n0se1w1"
-  0, 10, "road.maglev_c_n1se0w0"
-  0, 10, "road.maglev_c_n1se0w1"
-  0, 10, "road.maglev_c_n1se1w0"
-  0, 10, "road.maglev_c_n1se1w1"
-
-  0, 10, "road.maglev_d_e0s0nw1"
-  0, 10, "road.maglev_d_e0s1nw0"
-  0, 10, "road.maglev_d_e0s1nw1"
-  0, 10, "road.maglev_d_e1s0nw0"
-  0, 10, "road.maglev_d_e1s0nw1"
-  0, 10, "road.maglev_d_e1s1nw0"
-  0, 10, "road.maglev_d_e1s1nw1"
 }
 
 [grid_bottom]
