@@ -158,7 +158,7 @@ files =
   "misc/cursors.spec",
   "RoundHex/grid.spec",
   "RoundSquare/roads.spec",
-  "RoundSquare/fog.spec",
+  "RoundHex/fog.spec",
   "RoundSquare/cities.spec",
   "RoundSquare/nuke.spec",
   "RoundSquare/explosions.spec",
