@@ -156,7 +156,7 @@ files =
   "misc/flags.spec",
   "misc/shields.spec",
   "misc/cursors.spec",
-  "RoundSquare/grid.spec",
+  "RoundHex/grid.spec",
   "RoundSquare/roads.spec",
   "RoundSquare/fog.spec",
   "RoundSquare/cities.spec",
@@ -170,8 +170,7 @@ files =
   "misc/editor.spec",
   "RoundHex/terrain.spec",
   "RoundHex/rivers.spec",
-  "RoundHex/extras.spec",
-  "RoundHex/grid.spec"
+  "RoundHex/extras.spec"
 
 
 ; Include color definitions
