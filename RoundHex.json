@@ -1,0 +1,32 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": ".",
+    "name": "RoundHex",
+    "type": "Tileset",
+    "version": "3.0"
+  },
+  "dependencies": [
+    {
+      "url": "RoundSquare.json",
+      "modpack": "RoundSquare",
+      "type": "Tileset",
+      "version": "2.6"
+    }
+  ],
+  "files": [
+    "RoundHex.tilespec",
+    "RoundHex/extras.png",
+    "RoundHex/extras.spec",
+    "RoundHex/fog.png",
+    "RoundHex/fog.spec",
+    "RoundHex/grid.png",
+    "RoundHex/grid.spec",
+    "RoundHex/rivers.png",
+    "RoundHex/rivers.spec",
+    "RoundHex/roads.png",
+    "RoundHex/roads.spec",
+    "RoundHex/terrain.png",
+    "RoundHex/terrain.spec"
+  ]
+}
