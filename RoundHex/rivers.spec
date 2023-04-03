@@ -30,7 +30,7 @@ dy = 36
 pixel_border = 1
 
 tiles = { "row", "column", "tag"
-  11, 2, "road.river_s_n0e0se0s0w0nw0"
+  11, 1, "road.river_s_n0e0se0s0w0nw0"
   0,  5, "road.river_s_n0e0se0s0w0nw1"
   5,  5, "road.river_s_n0e0se0s0w1nw0"
   0,  4, "road.river_s_n0e0se0s0w1nw1"
@@ -100,7 +100,7 @@ tiles = { "row", "column", "tag"
   5,  0, "road.river_s_n1e1se1s1w0nw0"
   11, 0, "road.river_s_n1e1se1s1w0nw1"
   6,  0, "road.river_s_n1e1se1s1w1nw0"
-  11, 1, "road.river_s_n1e1se1s1w1nw1"
+  11, 2, "road.river_s_n1e1se1s1w1nw1"
 
   6,  5, "road.river_outlet_nw"
   7,  5, "road.river_outlet_w"
