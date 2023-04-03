@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.785161"
-     inkscape:cx="380.63794"
-     inkscape:cy="180.0958"
+     inkscape:zoom="1.5166986"
+     inkscape:cx="284.49951"
+     inkscape:cy="149.99685"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
@@ -2444,13 +2444,13 @@
        style="opacity:0.4;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter38711)"
        d="M 473,279 A 18.000006,17.999949 0 0 0 456.92383,288.97852 18.000006,17.999949 0 0 1 442,297 v 0.002 a 18.000006,17.999949 0 0 0 -17.98828,18 18.000006,17.999949 0 0 0 18,18 18.000006,17.999949 0 0 0 16.08984,-10.00586 18.000006,17.999949 0 0 1 14.91016,-7.98828 V 315 a 18.000006,17.999949 0 0 1 14.84961,7.91211 18.000006,17.999949 0 0 0 16.13867,10.0957 18.000006,17.999949 0 0 0 18,-18 18.000006,17.999949 0 0 0 -18,-18 18.000006,17.999949 0 0 0 -0.0234,0.002 A 18.000006,17.999949 0 0 1 489.21488,289.1934 18.000006,17.999949 0 0 0 473,279 Z"
        clip-path="url(#clipPath21882)"
-       transform="translate(-314.99999,-184.99999)" />
+       transform="translate(-377.99998,-73.99999)" />
     <path
        id="path9417"
        style="opacity:0.4;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter38715)"
        d="m 316,148.50586 a 18.000006,17.999949 0 0 0 -18,18 18.000006,17.999949 0 0 0 18,18 v 0.48633 h 13.00781 a 18.000006,17.999949 0 0 0 -0.002,0.0195 18.000006,17.999949 0 0 0 18,18 18.000006,17.999949 0 0 0 18,-18 18.000006,17.999949 0 0 0 0,-0.0195 h 12.69141 a 18.000006,17.999949 0 0 0 0.30273,0.0215 18.000006,17.999949 0 0 0 18,-18 18.000006,17.999949 0 0 0 -18,-18 18.000006,17.999949 0 0 0 -16.09375,10.01172 18.000006,17.999949 0 0 1 -14.90039,7.98633 18.000006,17.999949 0 0 1 -14.21094,-6.96289 A 18.000006,17.999949 0 0 0 316,148.50586 Z"
        clip-path="url(#clipPath21890)"
-       transform="translate(-251.99998,74.00001)" />
+       transform="translate(-189,-37.00002)" />
     <path
        id="path10121"
        clip-path="url(#clipPath38231)"
@@ -2462,8 +2462,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Black"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        id="path24711"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
