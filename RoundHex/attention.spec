@@ -16,6 +16,7 @@ artists = "
     GriffonSpade
     Hans Lemurson (remade most terrain)
     Louis Moureaux <louis94>
+    mangofeet (user.attention crosshair)
 "
 
 [file]
