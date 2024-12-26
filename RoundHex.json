@@ -27,6 +27,8 @@
     "RoundHex/roads.png",
     "RoundHex/roads.spec",
     "RoundHex/terrain.png",
-    "RoundHex/terrain.spec"
+    "RoundHex/terrain.spec",
+    "RoundHex/attention.png",
+    "RoundHex/attention.spec"
   ]
 }
